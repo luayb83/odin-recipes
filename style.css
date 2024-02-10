@@ -2,6 +2,10 @@ h1 {
     text-align: center;
 }
 
+.links {
+    text-align: center;
+}
+
 #lasagneImage {
     height: 200px;
     width: auto;
